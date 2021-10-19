@@ -1,2 +1,5 @@
 # IBM Data Science
-This master repo contains notebooks associated with the IBM Data Science course 
+
+This repo contains notebooks associated with the final IBM Data Science project.
+
+Get in touch: jahnfirth [at] gmail [dot] com
